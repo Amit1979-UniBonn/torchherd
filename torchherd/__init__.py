@@ -43,8 +43,14 @@ from .population_growth import PopulationGrowth
 from .sell_out_management import SellOutManagement
 from .weight_meat_production import WeightAndMeatProduction
 from .livestock_model import LivestockModel
+from .simulation import DEFAULT_FORCING, run_simulation
+
+__version__ = "0.0.1"
 
 __all__ = [
+    "__version__",
+    "DEFAULT_FORCING",
+    "run_simulation",
     "Fraction",
     "HfromP",
     "PfromH",

@@ -81,6 +81,4 @@ nav:
     - Report Issues: https://github.com/Amit1979-UniBonn/torchherd/issues
     - Examples:
         - examples/intro.ipynb
-    - API Reference:
-          - torchherd module: torchherd.md
-          - common module: common.md
+    - API Reference: torchherd.md
