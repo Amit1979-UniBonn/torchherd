@@ -3,6 +3,12 @@
 [![image](https://img.shields.io/pypi/v/torchherd.svg)](https://pypi.python.org/pypi/torchherd)
 [![image](https://img.shields.io/conda/vn/conda-forge/torchherd.svg)](https://anaconda.org/conda-forge/torchherd)
 
+<div align="center">
+  <a href="https://amit1979-unibonn.github.io/torchherd">
+    <img src="https://raw.githubusercontent.com/amit1979-unibonn/torchherd/main/docs/assets/logo.png" alt="logo" width="250"/>
+  </a>
+</div>
+
 **TorchHerd is an open-source, differentiable PyTorch framework for livestock
 population modelling.**
 
